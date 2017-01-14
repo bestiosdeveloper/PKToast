@@ -1,0 +1,22 @@
+{
+  "name": "PKToast",
+  "version": "0.1.0",
+  "summary": "A short description of PKToast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PKToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pramod Kumar": "pramod.kumar@appinventiv.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PKToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PKToast/Classes/**/*"
+}

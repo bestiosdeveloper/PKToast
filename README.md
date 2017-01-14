@@ -1,38 +1,29 @@
 # PKToast
-Simple to use and customizable toast/notifications for iOS
-======================
 
-This library provides an easy to use class to show little notification/toast views at the bottom of the screen.
+[![CI Status](http://img.shields.io/travis/Pramod Kumar/PKToast.svg?style=flat)](https://travis-ci.org/Pramod Kumar/PKToast)
+[![Version](https://img.shields.io/cocoapods/v/PKToast.svg?style=flat)](http://cocoapods.org/pods/PKToast)
+[![License](https://img.shields.io/cocoapods/l/PKToast.svg?style=flat)](http://cocoapods.org/pods/PKToast)
+[![Platform](https://img.shields.io/cocoapods/p/PKToast.svg?style=flat)](http://cocoapods.org/pods/PKToast)
 
-The notifications hide with fadding animation after the specified time duration.
+## Example
 
-It is very easy to add new notification.
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-**Take a look at the Example project to see how to use this library.** 
+## Requirements
 
+## Installation
 
-# Installation
+PKToast is available through [CocoaPods](http://cocoapods.org). To install
+it, simply add the following line to your Podfile:
 
-## Manually
-Copy the source files PKToast and PKToastView into your project.
+```ruby
+pod "PKToast"
+```
 
+## Author
 
-# Usage
+Pramod Kumar, pramod.kumar@appinventiv.com
 
-To show notifications just call the show method of PKToast class, as the following code: 
+## License
 
-`PKToast.shared.show(message: "Your message goes here", animated: true)`
-
-
-The following properties can be change (in PKToast class) to customize the toast view:
-
-* **messageFont**: The font will use for the message in toast view.
-* **messageTextColor**: The text color of the toast text.
-* **backColor**: The background color of the toast view.
-* **borderColor**: The border color of the toast view.
-* **borderWidth**: The border width of the toast view.
-* **messageInset**: The insets of the text in the toast view.
-
-
-# License
-PKToast is available under the MIT license. See the LICENSE file for more information.
+PKToast is available under the MIT license. See the LICENSE file for more info.

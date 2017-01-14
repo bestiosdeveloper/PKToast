@@ -1,0 +1,16 @@
+PODS:
+  - PKToast (0.1.0)
+
+DEPENDENCIES:
+  - PKToast (from `../`)
+
+EXTERNAL SOURCES:
+  PKToast:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PKToast: d3d8f28d0e0707bce74530f51ea2918e9de66f9e
+
+PODFILE CHECKSUM: 60ae658e8e23c2c9e4dc846a32a84fb710996ed5
+
+COCOAPODS: 1.0.1
