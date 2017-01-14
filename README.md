@@ -21,7 +21,7 @@ Copy the source files PKToast and PKToastView into your project.
 
 To show notifications just call the show method of PKToast class, as the following code: 
 
-`PKToast.shared.show(message: "You message goes here", animated: true)`
+`PKToast.shared.show(message: "Your message goes here", animated: true)`
 
 
 The following properties can be change (in PKToast class) to customize the toast view:
