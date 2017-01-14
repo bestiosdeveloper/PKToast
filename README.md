@@ -35,4 +35,4 @@ The following properties can be change (in PKToast class) to customize the toast
 
 
 # License
-TSMessages is available under the MIT license. See the LICENSE file for more information.
+PKToast is available under the MIT license. See the LICENSE file for more information.
